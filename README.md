@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Tahir</h1>
-<h3 align="center">2nd Year Computing Security Student.</h3>
+<h3 align="center">3rd Year Computing and Information Technologies Student.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
